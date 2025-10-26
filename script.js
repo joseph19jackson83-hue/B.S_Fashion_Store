@@ -74,9 +74,12 @@ const galleries = {
     {img:"casquette1.jpg", desc:"Casquette noire"},
     {img:"casquette2.jpg", desc:"Casquette blanche"}
   ],
-  autres: [
-    {img:"autre1.jpg", desc:"Accessoire mixte"},
-    {img:"autre2.jpg", desc:"Divers articles"}
+  sandales: [
+    {img:"sandales1.jpg", desc:"Accessoire mixte"},
+    {img:"sandales2.jpg", desc:"Divers articles"}
+  ],
+  tenis: [
+    {img:"tenis1.jpg", desh:"Divers articles"}
   ]
 };
 
