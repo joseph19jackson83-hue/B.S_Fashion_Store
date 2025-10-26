@@ -26,7 +26,7 @@ accessBtns.forEach(btn => {
 // ======= GALERIES =======
 const galleries = {
   Homme: [
-    {img:"homme1.jpg", desc:"Chemise élégante"},
+    {img:"homme1.jpg", desc},
     {img:"homme2.jpg", desc:"Pantalon stylé"},
     {img:"homme3.jpg", desc:"Maillot tendance"},
     {img:"homme4.jpg", desc:"Caleçon confortable"}
